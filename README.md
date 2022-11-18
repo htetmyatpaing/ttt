@@ -7,6 +7,8 @@ This can be run on any Os including android
 Usage:
 
 apt install python
+
 clone this repository(git clone.....)
+
 python tictactoe.py
 
